@@ -1,2 +1,2 @@
-# misc-files
-Miscellaneous files &amp; binaries
+# Miscellaneous Files
+A mixed use repository for images, videos and other misc files.
